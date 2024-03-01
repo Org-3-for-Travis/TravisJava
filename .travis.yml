@@ -3,7 +3,7 @@ vm:
   size: [large]
 language: java
 services:
-  - redis-server
+  - postgresql
 cache: bundler
 dist: bionic
 
